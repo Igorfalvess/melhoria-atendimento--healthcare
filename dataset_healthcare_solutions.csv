@@ -1,0 +1,21 @@
+﻿id_paciente,idade,sexo,tempo_espera_min,satisfacao_paciente,diagnostico,dispositivo_monitoramento,readmissao_30dias,tempo_internacao_dias,custo_atendimento
+1,69,Feminino,63,2,Gripe,Sem dispositivo,Sim,2,9302.0
+2,32,Masculino,174,5,Gripe,Smartwatch,Não,10,4501.99
+3,89,Feminino,19,2,Infecção,Smartwatch,Não,14,4795.97
+4,78,Feminino,179,4,Covid-19,Smartwatch,Não,4,2896.37
+5,38,Masculino,55,4,Diabetes,Sem dispositivo,Não,14,726.73
+6,41,Feminino,112,4,Covid-19,Smartwatch,Não,8,6639.32
+7,20,Feminino,59,4,Gripe,Glicômetro,Não,14,6225.78
+8,39,Feminino,68,5,Diabetes,Glicômetro,Não,7,4755.58
+9,70,Masculino,135,3,Diabetes,Smartwatch,Sim,12,704.16
+10,19,Feminino,55,1,Gripe,Sem dispositivo,Não,9,3383.21
+11,47,Masculino,139,4,Diabetes,Oxímetro,Não,14,10814.46
+12,55,Feminino,25,2,Infecção,Oxímetro,Não,8,11957.55
+13,19,Masculino,77,4,Diabetes,Sem dispositivo,Não,5,9286.42
+14,81,Masculino,171,2,Diabetes,Oxímetro,Não,13,13931.36
+15,77,Feminino,22,2,Covid-19,Smartwatch,Não,2,9940.62
+16,38,Feminino,136,4,Diabetes,Glicômetro,Não,5,13766.92
+17,50,Masculino,93,5,Infecção,Sem dispositivo,Não,8,12825.56
+18,75,Feminino,64,2,Infecção,Oxímetro,Sim,10,7017.03
+19,39,Feminino,18,2,Gripe,Oxímetro,Não,9,1883.45
+20,66,Feminino,13,4,Hipertensão,Sem dispositivo,Sim,12,5876.86
